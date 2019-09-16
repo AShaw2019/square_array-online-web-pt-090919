@@ -5,4 +5,4 @@ def square_array(number)
   puts "#{number} * #{number}"
   counter += 1
 end
- 
+end
