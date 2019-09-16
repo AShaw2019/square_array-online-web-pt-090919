@@ -2,7 +2,7 @@ def square_array(number)
   numbers = [1,2,3]
   counter = 1
   number.each{|number| new_array.push ()#{number}*#{number})}
-  puts "#{number} * #{number}"
+  return new_array
   counter += 1
  
 end
